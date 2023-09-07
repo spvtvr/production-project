@@ -22,3 +22,5 @@ export const routeConfig: Record<AppRoutes, RouteProps> = {
     element: <AboutPage />,
   },
 };
+
+console.log('RoutePath', RoutePath)
